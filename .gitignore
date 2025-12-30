@@ -1,0 +1,23 @@
+# Python
+__pycache__
+*.pyc
+*.pyo 
+*.pyd
+dist/
+build/
+*.exe
+.vscode/
+.idea
+
+# Entorno Virtual
+env/
+.venv/
+
+# Variables de Entorno
+.env
+
+# Logs
+*.log
+
+# Archivos Excel
+Mestro_Proveedores.xlsx
